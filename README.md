@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Mohamed ADARSH SUMESH </h3>
+<h3>Name: ADARSH SUMESH </h3>
 <h3>Register Number: 212224080002</h3>
 
 
